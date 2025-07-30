@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lfrati
 - 👀 I’m interested in AI, Evolution, HPC, [Generative Art](https://simplesystems.notion.site/simplesystems/Lapo-Frati-f100e3d0754e408da36d9d20204ec7f7), Cellular Automata, Quantum Computing.
-- 🌱 I’m currently a PhD student from the [Neurobotics lab](https://github.com/uvm-neurobotics-lab) @ [UMV](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce)
+- 🌱 I’m a PhD graduate from the [Neurobotics lab](https://github.com/uvm-neurobotics-lab) @ [UMV](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce)
 - 🚀 Curious for more? Check out my [🕸️🏗️](https://www.barelycomplex.systems/) ... (got it?)
 
 ### :hammer_and_wrench: Languages and Tools :
